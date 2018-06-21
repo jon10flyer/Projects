@@ -1,0 +1,16 @@
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.Tests.deps.json
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.Tests.runtimeconfig.json
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.Tests.runtimeconfig.dev.json
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.Tests.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.Tests.pdb
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.pdb
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.Models.pdb
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStore.DAL.Tests.csprojResolveAssemblyReference.cache
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStore.DAL.Tests.AssemblyInfo.cs
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStore.DAL.Tests.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStore.DAL.Tests.pdb
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.DAL.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll

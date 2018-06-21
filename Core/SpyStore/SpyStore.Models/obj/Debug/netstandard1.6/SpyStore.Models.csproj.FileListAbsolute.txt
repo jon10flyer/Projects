@@ -1,0 +1,6 @@
+C:\Source\Projects\Core\SpyStore\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.deps.json
+C:\Source\Projects\Core\SpyStore\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.pdb
+C:\Source\Projects\Core\SpyStore\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.AssemblyInfo.cs
+C:\Source\Projects\Core\SpyStore\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.dll
+C:\Source\Projects\Core\SpyStore\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.pdb
